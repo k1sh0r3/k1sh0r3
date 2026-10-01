@@ -49,6 +49,6 @@
 
 ## 📫 Connect
 
-- 🌐 Portfolio: [k1sh0r3.github.io/MyPortfolio](https://kishore.run/)
+- 🌐 Portfolio: https://kishore.run/
 - 💼 LinkedIn: [linkedin.com/in/sivakishorereddyallu](https://www.linkedin.com/in/sivakishorereddyallu/)
 - ✉️ [sivakishorereddyallu@gmail.com](mailto:sivakishorereddyallu@gmail.com)
