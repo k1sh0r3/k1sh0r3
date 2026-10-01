@@ -17,6 +17,7 @@
 | **[HireRadar](https://k1sh0r3.github.io/HireRadar/)** | Visa-friendly job search | Job board aggregating JSearch and Remotive APIs with filters for C2C, W-2, H-1B sponsorship, and F-1/OPT roles. Listings refresh daily via an automated GitHub Actions pipeline. ([Repo](https://github.com/k1sh0r3/HireRadar)) |
 | **[SeevForge](https://k1sh0r3.github.io/SeevForge/)** | AI-assisted resume builder | Upload a resume (PDF/DOCX/TXT parsed in-browser), get an ATS score with full breakdown, tailor it against any job description, and optionally polish it with your own AI key. Everything runs client-side — no data leaves your browser. ([Repo](https://github.com/k1sh0r3/SeevForge)) |
 | **[CtrlZ_API](https://k1sh0r3.github.io/CtrlZ_API/)** | API schema archive | A public archive that snapshots 33 popular free APIs every day and records exactly what changed in their response schemas — and when. A daily GitHub Actions pipeline diffs every response field-by-field and publishes the changelog. ([Repo](https://github.com/k1sh0r3/CtrlZ_API)) |
+| **[BlastRadius](https://k1sh0r3.github.io/BlastRadius/)** | Column-level data lineage | Know what breaks before you change it — in-browser lineage for dbt projects and SQL. ([Repo](https://github.com/k1sh0r3/BlastRadius)) |
 
 ## 🛠️ Tech stack
 
