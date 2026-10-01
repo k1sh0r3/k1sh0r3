@@ -13,7 +13,7 @@
 
 | Site | What it's for | Description |
 |---|---|---|
-| **[MyPortfolio](https://k1sh0r3.github.io/MyPortfolio/)** | My personal portfolio | My professional home on the web — experience, projects, skills, education, and certifications. ([Repo](https://github.com/k1sh0r3/MyPortfolio)) |
+| **[MyPortfolio](https://kishore.run/)** | My personal portfolio | My professional home on the web — experience, projects, skills, education, and certifications. ([Repo](https://github.com/k1sh0r3/MyPortfolio)) |
 | **[HireRadar](https://k1sh0r3.github.io/HireRadar/)** | Visa-friendly job search | Job board aggregating JSearch and Remotive APIs with filters for C2C, W-2, H-1B sponsorship, and F-1/OPT roles. Listings refresh daily via an automated GitHub Actions pipeline. ([Repo](https://github.com/k1sh0r3/HireRadar)) |
 | **[SeevForge](https://k1sh0r3.github.io/SeevForge/)** | AI-assisted resume builder | Upload a resume (PDF/DOCX/TXT parsed in-browser), get an ATS score with full breakdown, tailor it against any job description, and optionally polish it with your own AI key. Everything runs client-side — no data leaves your browser. ([Repo](https://github.com/k1sh0r3/SeevForge)) |
 | **[CtrlZ_API](https://k1sh0r3.github.io/CtrlZ_API/)** | API schema archive | A public archive that snapshots 33 popular free APIs every day and records exactly what changed in their response schemas — and when. A daily GitHub Actions pipeline diffs every response field-by-field and publishes the changelog. ([Repo](https://github.com/k1sh0r3/CtrlZ_API)) |
@@ -49,6 +49,6 @@
 
 ## 📫 Connect
 
-- 🌐 Portfolio: [k1sh0r3.github.io/MyPortfolio](https://k1sh0r3.github.io/MyPortfolio/)
+- 🌐 Portfolio: [k1sh0r3.github.io/MyPortfolio](https://kishore.run/)
 - 💼 LinkedIn: [linkedin.com/in/sivakishorereddyallu](https://www.linkedin.com/in/sivakishorereddyallu/)
 - ✉️ [sivakishorereddyallu@gmail.com](mailto:sivakishorereddyallu@gmail.com)
