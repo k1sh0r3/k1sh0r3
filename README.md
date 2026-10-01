@@ -19,6 +19,7 @@
 | **[CtrlZ_API](https://k1sh0r3.github.io/CtrlZ_API/)** | API schema archive | A public archive that snapshots 33 popular free APIs every day and records exactly what changed in their response schemas — and when. A daily GitHub Actions pipeline diffs every response field-by-field and publishes the changelog. ([Repo](https://github.com/k1sh0r3/CtrlZ_API)) |
 | **[Tech_Epoch](https://k1sh0r3.github.io/Tech_Epoch/)** | Tech news feed | Every epoch of tech, daily — an AI/ML/Robotics-first news feed with one-tap sharing to LinkedIn, X, Facebook, WhatsApp, and Telegram, plus an Instagram Story card generator. ([Repo](https://github.com/k1sh0r3/Tech_Epoch)) |
 | **[BlastRadius](https://k1sh0r3.github.io/BlastRadius/)** | Column-level data lineage | Know what breaks before you change it — in-browser lineage for dbt projects and SQL. ([Repo](https://github.com/k1sh0r3/BlastRadius)) |
+| **[SQLSentinel](https://k1sh0r3.github.io/SQLSentinel/)** | Verified text-to-SQL | NL questions become validated SQL with a verification loop, guardrails, and plain-English explanations. ([Repo](https://github.com/k1sh0r3/SQLSentinel)) |
 
 ## 🛠️ Tech stack
 
