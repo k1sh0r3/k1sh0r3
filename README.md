@@ -13,13 +13,13 @@
 
 | Site | What it's for | Description |
 |---|---|---|
-| **[MyPortfolio](https://kishore.run/)** | My personal portfolio | My professional home on the web — experience, projects, skills, education, and certifications. ([Repo](https://github.com/k1sh0r3/MyPortfolio)) |
-| **[HireRadar](https://k1sh0r3.github.io/HireRadar/)** | Visa-friendly job search | Job board aggregating JSearch and Remotive APIs with filters for C2C, W-2, H-1B sponsorship, and F-1/OPT roles. Listings refresh daily via an automated GitHub Actions pipeline. ([Repo](https://github.com/k1sh0r3/HireRadar)) |
-| **[SeevForge](https://k1sh0r3.github.io/SeevForge/)** | AI-assisted resume builder | Upload a resume (PDF/DOCX/TXT parsed in-browser), get an ATS score with full breakdown, tailor it against any job description, and optionally polish it with your own AI key. Everything runs client-side — no data leaves your browser. ([Repo](https://github.com/k1sh0r3/SeevForge)) |
-| **[CtrlZ_API](https://k1sh0r3.github.io/CtrlZ_API/)** | API schema archive | A public archive that snapshots 33 popular free APIs every day and records exactly what changed in their response schemas — and when. A daily GitHub Actions pipeline diffs every response field-by-field and publishes the changelog. ([Repo](https://github.com/k1sh0r3/CtrlZ_API)) |
-| **[Tech_Epoch](https://k1sh0r3.github.io/Tech_Epoch/)** | Tech news feed | Every epoch of tech, daily — an AI/ML/Robotics-first news feed with one-tap sharing to LinkedIn, X, Facebook, WhatsApp, and Telegram, plus an Instagram Story card generator. ([Repo](https://github.com/k1sh0r3/Tech_Epoch)) |
-| **[BlastRadius](https://k1sh0r3.github.io/BlastRadius/)** | Column-level data lineage | Know what breaks before you change it — in-browser lineage for dbt projects and SQL. ([Repo](https://github.com/k1sh0r3/BlastRadius)) |
 | **[SQLSentinel](https://k1sh0r3.github.io/SQLSentinel/)** | Verified text-to-SQL | NL questions become validated SQL with a verification loop, guardrails, and plain-English explanations. ([Repo](https://github.com/k1sh0r3/SQLSentinel)) |
+| **[BlastRadius](https://k1sh0r3.github.io/BlastRadius/)** | Column-level data lineage | Know what breaks before you change it — in-browser lineage for dbt projects and SQL. ([Repo](https://github.com/k1sh0r3/BlastRadius)) |
+| **[TechEpoch](https://k1sh0r3.github.io/TechEpoch/)** | Tech news feed | Every epoch of tech, daily — an AI/ML/Robotics-first news feed with one-tap sharing to LinkedIn, X, Facebook, WhatsApp, and Telegram, plus an Instagram Story card generator. ([Repo](https://github.com/k1sh0r3/TechEpoch)) |
+| **[CtrlZAPI](https://k1sh0r3.github.io/CtrlZAPI/)** | API schema archive | A public archive that snapshots 33 popular free APIs every day and records exactly what changed in their response schemas — and when. A daily GitHub Actions pipeline diffs every response field-by-field and publishes the changelog. ([Repo](https://github.com/k1sh0r3/CtrlZAPI)) |
+| **[SeevForge](https://k1sh0r3.github.io/SeevForge/)** | AI-assisted resume builder | Upload a resume (PDF/DOCX/TXT parsed in-browser), get an ATS score with full breakdown, tailor it against any job description, and optionally polish it with your own AI key. Everything runs client-side — no data leaves your browser. ([Repo](https://github.com/k1sh0r3/SeevForge)) |
+| **[HireRadar](https://k1sh0r3.github.io/HireRadar/)** | Visa-friendly job search | Job board aggregating JSearch and Remotive APIs with filters for C2C, W-2, H-1B sponsorship, and F-1/OPT roles. Listings refresh daily via an automated GitHub Actions pipeline. ([Repo](https://github.com/k1sh0r3/HireRadar)) |
+| **[MyPortfolio](https://kishore.run/)** | My personal portfolio | My professional home on the web — experience, projects, skills, education, and certifications. ([Repo](https://github.com/k1sh0r3/MyPortfolio)) |
 
 ## 🛠️ Tech stack
 
