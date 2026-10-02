@@ -1,6 +1,6 @@
 # Hi, I'm Siva Kishore Reddy Allu 👋
 
-** I build AI systems that ship: LLM apps, verification loops, and data/ML tooling. 8 open-source projects, all live — including the code reviewer for AI-written SQL. MS IT @ University of Cincinnati — open to AI/ML and data engineering roles.**
+# I build AI systems that ship: LLM apps, verification loops, and data/ML tooling. 8 open-source projects, all live — including the code reviewer for AI-written SQL. MS IT @ University of Cincinnati — open to AI/ML and data engineering roles. #
 
 ## About me
 
