@@ -1,6 +1,6 @@
 # Hi, I'm Siva Kishore Reddy Allu 👋
 
-I build AI systems that ship: LLM apps, verification loops, and data/ML tooling. 10 open-source projects, all live — including the code reviewer for AI-written SQL. MS IT @ University of Cincinnati — open to AI/ML and data engineering roles. 
+I build AI systems that ship: LLM apps, verification loops, and data/ML tooling. 12 open-source projects, all live — including the code reviewer for AI-written SQL. MS IT @ University of Cincinnati — open to AI/ML and data engineering roles. 
 
 ## About me
 
@@ -13,6 +13,8 @@ I build AI systems that ship: LLM apps, verification loops, and data/ML tooling.
 
 | Site | What it's for | Description |
 |---|---|---|
+| **[RAGJudge](https://k1sh0r3.github.io/RAGJudge/)** | RAG eval harness | Prove your RAG works — score RAG configs on faithfulness, citation quality, and answer relevance, ranked on a leaderboard. Free, runs keyless in the browser. ([Repo](https://github.com/k1sh0r3/RAGJudge)) |
+| **[VaultChat](https://k1sh0r3.github.io/VaultChat/)** | Private in-browser RAG | Your documents, interrogated privately — chat with your PDFs with parsing, embeddings, and retrieval all on-device. Nothing leaves the browser. ([Repo](https://github.com/k1sh0r3/VaultChat)) |
 | **[PrepAgent](https://k1sh0r3.github.io/PrepAgent/)** | Interview-prep agent | A browser-based agent that researches the company, generates resume-grounded interview questions, and runs mock interviews with an explainable judge and cross-session weak-area tracking. ([Repo](https://github.com/k1sh0r3/PrepAgent)) |
 | **[JailbreakGym](https://k1sh0r3.github.io/JailbreakGym/)** | Adversarial prompt testing | Sparring for system prompts — stress-test any system prompt against 500+ prompt-injection and jailbreak attacks, with per-category robustness scores and auto-hardening. Free, runs in the browser. ([Repo](https://github.com/k1sh0r3/JailbreakGym)) |
 | **[SQLSentinel](https://k1sh0r3.github.io/SQLSentinel/)** | Verified text-to-SQL | NL questions become validated SQL with a verification loop, guardrails, and plain-English explanations. ([Repo](https://github.com/k1sh0r3/SQLSentinel)) |
@@ -53,5 +55,5 @@ I build AI systems that ship: LLM apps, verification loops, and data/ML tooling.
 ## 📫 Connect
 
 - 🌐 Portfolio: https://kishore.run/
-- 💼 LinkedIn: [linkedin.com/in/sivakishorereddyallu](https://www.linkedin.com/in/sivakishorereddyallu/)
+- 💼 LinkedIn: [linkedin.com/in/kishore0451](https://www.linkedin.com/in/kishore0451/)
 - ✉️ [sivakishorereddyallu@gmail.com](mailto:sivakishorereddyallu@gmail.com)
